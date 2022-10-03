@@ -1,6 +1,6 @@
 ### Hi Everyone! 👋
 
-**Mopaxo/Mopaxo** is my ✨ _special_ ✨ repository, because its `README.md` (this file) appears on my GitHub profile. 😎
+**Mopaxo/Mopaxo** is my ✨ _special_ ✨ repository 😎
 
 ***About Me:***
 
