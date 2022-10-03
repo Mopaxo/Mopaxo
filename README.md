@@ -8,7 +8,7 @@
   * 🌱 I’m currently learning React JS and React Native.
   * 👯 I’m looking to collaborate in any new job to learn new technologies.
   * 💬 Ask me about anything if you want ;)
-  * 📫 How to reach me: simonzunigahidalgo@gmail or s.zigahidalgo@uandresbello.edu
+  * 📫 How to reach me: s.zigahidalgo@uandresbello.edu
   * 😄 Pronouns: Mopaxo or Z, also Simón 
 
 ***My Moral Standars:***
