@@ -2,7 +2,7 @@
 
 **Mopaxo/Mopaxo** is my ✨ _special_ ✨ repository, because its `README.md` (this file) appears on my GitHub profile. 😎
 
-**About Me:
+***About Me:
 
   * 🔭 I’m currently working on my University Title Proyect (RacoonBuilds).
   * 🌱 I’m currently learning React JS and React Native.
@@ -11,7 +11,7 @@
   * 📫 How to reach me: simonzunigahidalgo@gmail or s.zigahidalgo@uandresbello.edu
   * 😄 Pronouns: Mopaxo or Z, also Simón 
 
-**My Moral Standars:
+***My Moral Standars:
 
   * Self-Study Student 🈺
   * Never give up with creative and unique solutions 🎨
