@@ -4,11 +4,11 @@
 
 ***About Me:***
 
-  * 🔭 I’m currently working on my University Title Proyect (RacoonBuilds).
-  * 🌱 I’m currently learning React JS and React Native.
+  * 🔭 I’m currently working and learning Ruby On Rails Back-end With ReactJS Front-end.
+  * 🌱 I’m currently learning everyday new Tech Knowledge to make me a better Developer.
   * 👯 I’m looking to collaborate in any new job to learn new technologies.
   * 💬 Ask me about anything if you want ;)
-  * 📫 How to reach me: s.zigahidalgo@uandresbello.edu
+  * 📫 How to reach me: s.zigahidalgo@uandresbello.edu / simonzunigahidalgo@gmail.com
   * 😄 Pronouns: Mopaxo or Z, also Simón 
 
 ***My Moral Standars:***
